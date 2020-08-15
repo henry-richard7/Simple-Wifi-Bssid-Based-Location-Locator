@@ -7,3 +7,5 @@ This python project shows how to get a device's location without GPS turned ON w
 * geopy
 # Wifi BSSID Database
 [Open WIFI Database](https://www.mylnikov.org/)
+# License
+MIT License [License](https://github.com/Eyepatch72/Simple-Wifi-Bssid-Based-Location-Locator/blob/master/LICENSE)
